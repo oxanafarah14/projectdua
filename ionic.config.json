@@ -1,0 +1,7 @@
+{
+  "name": "projectdua",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
